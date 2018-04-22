@@ -120,9 +120,3 @@ def make_frame(t):
 
 animation = mpy.VideoClip(make_frame, duration = duration)
 animation.write_gif("deal.gif", fps = 4)
-
-    
-    
-    
-    
-    
