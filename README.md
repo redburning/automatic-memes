@@ -12,11 +12,10 @@ It generates the DEAL WITH IT MEME by detecting faces in images.
 
 ## Requirements 
 
-1. Pillow, MoviePy, and NumPy for the Gif from still image generator, and OpenCV and Pillow for the real time DEAL generator. 
+Pillow, MoviePy, and NumPy for the Gif from still image generator, and OpenCV and Pillow for the real time DEAL generator. 
 
-2. You'll need a webcam to get real time video in OpenCV to work.
+You'll need a webcam to get real time video in OpenCV to work.
 
-3. The file 'shape_predictor_68_face_landmarks.dat' is downloaded from [dlib.net](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 
 ## Usage
 
