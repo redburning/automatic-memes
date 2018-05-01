@@ -24,11 +24,7 @@ You'll need to download the [shape_predictor_68](https://github.com/davisking/dl
 After, you should be able to just pass in the location of that predictor to the Python3 program as a command line argument like so:
 
 ```bash
-$ python3 generate_gif.py -image SOURCEIMAGE.jpg 
+$ python3 generate_gif.py -image = 'beautiful_girl.png'
 ```
 
 Make sure your image has front facing faces, otherwise the program will exit immediately.
-
-Finally, there's a YouTube video to go along with this repo, walking through the whole thing here:
-
-[![DEAL WITH IT PYTHON](https://github.com/burningion/automatic-memes/blob/master/images/deal_youtube.png?raw=true)](https://www.youtube.com/watch?v=eVhE8ioH1kw)
