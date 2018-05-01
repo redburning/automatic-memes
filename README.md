@@ -4,7 +4,7 @@ This is the companion repository for the original post at [makeartwithpython.com
 
 It generates the DEAL WITH IT MEME by detecting faces in images.
 
-![DEAL WITH IT](https://github.com/burningion/automatic-memes/blob/master/images/deal.gif?raw=true)
+![DEAL WITH IT](images/deal.gif?raw=true)
 
 ## Architecture
 
